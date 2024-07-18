@@ -1,0 +1,36 @@
+{
+  "blogs": [
+    {
+      "id": "8dd9",
+      "title": "food blog update",
+      "description": "Bursting with ripe mangoes, crisp red bell peppers, and a zesty kick of lime, this refreshing salsa is the perfect blend of sweet and tangy. Serve it with tortilla chips for a sunny snack or as a topping for grilled fish or chicken to elevate your meal. Ready in just 10 minutes, it's a quick, healthy, and delicious way to enjoy summer's bounty. Dive into our recipe and savor the taste of the season!",
+      "category": "Food",
+      "imageURL": "https://res.cloudinary.com/dia59bbjn/image/upload/v1719407638/g9fvjpktzb4uutz0hrki.jpg",
+      "date": "26/06/2024"
+    },
+    {
+      "id": "0f3d",
+      "title": "Travel Update",
+      "description": "Nestled in the heart of the Aegean Sea, Santorini boasts dazzling whitewashed buildings, vibrant blue domes, and stunning sunsets that paint the sky in hues of pink and orange. Wander through the charming streets of Oia, savor local delicacies, and soak in the breathtaking views from cliffside cafes. Dive into the island's rich history at ancient sites like Akrotiri, and unwind on the unique black sand beaches. Santorini is a slice of paradise that promises an unforgettable escape.",
+      "category": "Travel",
+      "imageURL": "https://res.cloudinary.com/dia59bbjn/image/upload/v1719407728/jqkexlvqg92xfswfzorl.jpg",
+      "date": "26/06/2024"
+    },
+    {
+      "id": "53a6",
+      "title": "Technology Blog 2",
+      "description": "Quantum computing is no longer just a theoretical concept but a rapidly advancing technology poised to revolutionize industries. By leveraging the principles of quantum mechanics, these computers can process information exponentially faster than classical computers. This leap in computational power could solve complex problems in fields like cryptography, drug discovery, and artificial intelligence, which were previously thought insurmountable. As major tech companies and research institutions make significant strides, the next decade promises breakthroughs that could redefine our digital landscape. Stay ahead of the curve and explore how quantum computing might shape the future of technology and innovation.",
+      "category": "Tech",
+      "imageURL": "https://res.cloudinary.com/dia59bbjn/image/upload/v1719484077/nrn2yx5z0rsk1llcuhea.jpg",
+      "date": "27/06/2024"
+    },
+    {
+      "id": "bc06",
+      "title": "Fitness Blog updated",
+      "description": "Wandering through Prague's cobblestone alleys feels like stepping into a fairy tale. From the majestic Prague Castle overlooking the Vltava River to the whimsical Astronomical Clock in Old Town Square, every corner of the city tells a story of history and magic. Don’t miss the Charles Bridge at dawn, where the early light casts a golden glow over its iconic statues. Savor a Trdelník, a traditional sweet treat, while soaking in the lively atmosphere of bustling markets. Prague is not just a destination, it's an experience that stays with you long after your journey ends.",
+      "category": "Fitness",
+      "imageURL": "https://res.cloudinary.com/dia59bbjn/image/upload/v1719484372/ch4taqbmqqpxogvmxevp.jpg",
+      "date": "27/06/2024"
+    }
+  ]
+}
